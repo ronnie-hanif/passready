@@ -1,0 +1,14 @@
+userPrincipalName,deviceName,os,osVersion,authenticatorInstalled
+alice.nguyen@example.com,Alice iPhone,iOS,18,true
+bob.carter@example.com,Bob Galaxy,Android,12,false
+dave.okafor@example.com,Frontline Shared 4,Android,13,false
+erin.walsh@example.com,Erin iPhone,iOS,16,true
+grace.kim@example.com,Grace Laptop,Windows,11,false
+henry.ross@example.com,Henry MacBook,macOS,15,false
+ivan.petrov@example.com,Ivan iPhone,iOS,17,true
+judy.flores@example.com,Judy Desktop,Windows,10,false
+karl.jensen@example.com,Karl iPhone,iOS,18,true
+lena.brooks@example.com,Lena Laptop,Windows,11,true
+marcus.reid@example.com,Marcus iPhone,iOS,18,true
+nadia.ali@example.com,Nadia MacBook,macOS,15,false
+omar.haddad@vendor.example.com,Omar Pixel,Android,14,false

@@ -1,0 +1,16 @@
+userPrincipalName,displayName,manager,userType,isGlobalAdmin,requiresSmsVoice,methods
+alice.nguyen@example.com,Alice Nguyen,Maya Chen,member,false,false,passkey;microsoftAuthenticatorPush
+bob.carter@example.com,Bob Carter,Maya Chen,member,false,false,sms
+carol.diaz@example.com,Carol Diaz,Maya Chen,member,false,false,voice
+dave.okafor@example.com,Dave Okafor,Jordan Lee,member,false,true,sms;voice
+erin.walsh@example.com,Erin Walsh,Jordan Lee,member,true,false,sms
+frank.meyer@partner.example.com,Frank Meyer,Jordan Lee,external,false,false,voice
+grace.kim@example.com,Grace Kim,Priya Patel,internalGuest,false,false,sms
+henry.ross@example.com,Henry Ross,Priya Patel,member,false,false,fido2SecurityKey
+ivan.petrov@example.com,Ivan Petrov,Maya Chen,member,false,false,microsoftAuthenticatorPush
+judy.flores@example.com,Judy Flores,Jordan Lee,member,false,false,
+karl.jensen@example.com,Karl Jensen,Priya Patel,member,false,false,sms
+lena.brooks@example.com,Lena Brooks,Maya Chen,member,false,false,windowsHelloForBusiness;microsoftAuthenticatorPush
+marcus.reid@example.com,Marcus Reid,Priya Patel,member,true,false,passkey
+nadia.ali@example.com,Nadia Ali,Jordan Lee,member,false,false,softwareOath
+omar.haddad@vendor.example.com,Omar Haddad,Priya Patel,external,false,true,sms;voice
